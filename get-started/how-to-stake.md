@@ -18,14 +18,6 @@ It's simpler than farming with Photonswap's Yield Farms, because unlike the Farm
 
 4\. Choose which Staking you want to stake in.
 
-**Auto PHOTON** automatically compounds your rewards: any PHOTON you earn will be harvested and re-invested in the same pool for you.
-
-**Manual PHOTON** doesn’t automatically compound like Auto PHOTON. You’ll need to harvest and compound your earnings manually.
-
-Other Staking let you stake your PHOTON to earn dozens of other cool tokens. Make sure you check them out.\\
-
-***
-
 5\. Once you choose a pool, click the **Enable** button. Your wallet will ask you to confirm the action.
 
 6\. The Enable button should now be replaced with **Stake**. Click the button to bring up the staking menu.

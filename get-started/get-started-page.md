@@ -9,7 +9,7 @@ description: Using anything new can be a bit of a challenge. Don't worry though,
 
 Once you have a wallet set up and connected to PhotonSwap, feel free to check our other how to guides below.
 
-> [How to Trade?](https://docs.photonswap.finance/get-started-page/how-to-trade)\
+> [How to Trade??](https://docs.photonswap.finance/get-started-page/how-to-trade)\
 > [How to Add/Remove Liquidity?](https://docs.photonswap.finance/get-started-page/how-to-add-remove-liquidity)\
 > [How to use Famrs?](https://docs.photonswap.finance/get-started-page/how-to-use-farms)\
 > [how to use Staking?](https://docs.photonswap.finance/get-started-page/how-to-stake)
