@@ -9,10 +9,10 @@ description: Using anything new can be a bit of a challenge. Don't worry though,
 
 Once you have a wallet set up and connected to PhotonSwap, feel free to check our other how to guides below.
 
-> [How to Trade?]()\
-> [How to Add/Remove Liquidity?]()\
-> [How to use Famrs?]()\
-> [how to use Pools?]()
+> [How to Trade?](how-to-trade)\
+> [How to Add/Remove Liquidity?](how-to-add-remove-liquidity)\
+> [How to use Famrs?](how-to-use-farms)\
+> [how to use Staking?](how-to-stake)
 
 
 If you can't find what you need, feel free to visit the [Photonswap Telegram](https://t.me/photonswap_fi) Telegram and ask for help there!
