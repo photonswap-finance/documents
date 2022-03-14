@@ -49,8 +49,8 @@ Now that you have your LP Tokens, you’re ready to start staking them in a Farm
 1. Go back to the [Farms page](https://photonswap.finance/farms#/farm) and locate your Farm. Click on the Deposite button. It will expand to show more details\
 Type the amount of LP Tokens you would like to farm with into the field, or just click **Max** to use all of your LP Tokens.
 
-2. When you’re ready, click the **Enable** button and confirm your action in your wallet.\
- After a short wait, the Enable button will change to **Deposit LP**. Click it and a new window will appear.
+2. When you’re ready, click the **Approve** button and confirm your action in your wallet.\
+ After a short wait, the Approve button will change to **Deposit LP**. Click it and a new window will appear.
 
 3. When you have the amount entered, the **Confirm** button will light up. Click it. Your wallet will ask you to confirm your action.
 

@@ -23,7 +23,7 @@ You can easily trade for any tokens you need. Visit our [How to Trade on Photons
 5\. Enter an amount on one of the tokens under “Input”. The other should be calculated and filled automatically.\
 (If one of the token does not have enough balance. You will see an error and the button being greyed out. Please enter a lower amount to proceed.)
 
-6\. Click the **Enable PHOTON-TOKEN** button. If you are adding liquidity against tokens other than CRO, you might need to click enable twice for each token in your pair. Your wallet will ask you to confirm the action.
+6\. Click the **Approve PHOTON-TOKEN** button. If you are adding liquidity against tokens other than CRO, you might need to click enable twice for each token in your pair. Your wallet will ask you to confirm the action.
 
 7\. The **Supply** button will then light up. Click to proceed.
 
@@ -45,7 +45,7 @@ To remove liquidity.
 
 4\. Use the buttons or slider to choose how much liquidity you want to remove. Choose **MAX** to remove all of your liquidity from this pair.
 
-5\. Click **Enable**. Your wallet will ask you to sign the action**.**
+5\. Click **Approve**. Your wallet will ask you to sign the action**.**
 
 6\. The **Remove** button will light up. Click to proceed.
 
