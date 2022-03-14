@@ -69,15 +69,15 @@ You should now only see the pairs you have LP Tokens in on the list, making it e
 
 4. Make sure your information is correct. When you are ready, click the **Confirm** button and confirm the action in your wallet.
 
-5. After a short wait, your new balance will show in the details section of your LP Token pair. If you've unstaked your LP Tokens, any unharvested rewards you had will automatically have been collected.
+5. After a short wait, your new balance will show in the details section of your LP Token pair. If you've unstaked your LP Tokens, any unclaimed rewards you had will automatically have been collected.
 
 ## Collecting your farming rewards
 
 Farming will bring you reward tokens over time. You can collect these rewards and use them to get more LP Tokens, stake them in Farms,
 
-### Returning to your Farm to Harvest
+### Returning to your Farm to Claim
 
-You can harvest your Farm and Staking rewards together from the Home page. If you'd like to collect your farming rewards only, follow along.
+You can claim your Farm and Staking rewards together from the Home page. If you'd like to collect your farming rewards only, follow along.
 
 To collect your rewards, you’ll need to visit your chosen Farm and collect the PHOTON waiting for you.
 
@@ -85,4 +85,4 @@ To collect your rewards, you’ll need to visit your chosen Farm and collect the
 
 2. Find the Farm you staked your LP Tokens in, and click the row to view details. You should see an estimate of your rewards under “Photon-token earned”.
 
-3. Click the **Harvest** button and confirm the action in your wallet. After a short wait, the PHOTON will be claimed to your wallet for you to use as you like.
+3. Click the **Claim** button and confirm the action in your wallet. After a short wait, the PHOTON will be claimed to your wallet for you to use as you like.
