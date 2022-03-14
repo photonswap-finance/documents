@@ -36,7 +36,7 @@ Now that you've found a Farm to stake in, you will need to add liquidity to get 
 
 1. Click on the Deposit Button of the Farm you've chosen from the list. It will open to show more details.
 
-2. On the left, you'll see some links. Click the **Get (your pair) LP** link.
+2. you'll see button. Click the **Add (your pair) liquidity** button.
 
 This will open the Add Liquidity page for your Farm's pair. We have a [guide to adding liquidity](https://docs.photonswap.finance/get-started/how-to-add-remove-liquidity) you can follow to get your LP Tokens.
 
@@ -47,10 +47,11 @@ Now that you have your LP Tokens, you’re ready to start staking them in a Farm
 ### Putting your LP Tokens into the Farm
 
 1. Go back to the [Farms page](https://photonswap.finance/farms#/farm) and locate your Farm. Click on the Deposite button. It will expand to show more details\
+and you'll see **Deposit (your pair) LP tokens** button, it will open a dialog when you click on that button.\
 Type the amount of LP Tokens you would like to farm with into the field, or just click **Max** to use all of your LP Tokens.
 
 2. When you’re ready, click the **Approve** button and confirm your action in your wallet.\
- After a short wait, the Approve button will change to **Deposit LP**. Click it and a new window will appear.
+ After a short wait, the Approve button will change to **Deposit**. Click it and a new window will appear.
 
 3. When you have the amount entered, the **Confirm** button will light up. Click it. Your wallet will ask you to confirm your action.
 
@@ -60,10 +61,9 @@ Type the amount of LP Tokens you would like to farm with into the field, or just
 
 You may decide you would like to add more LP Tokens to a Farm at a later date, or to take some out of a Farm. You can do this very easily whenever you'd like.
 
-1. Return to the [Yield Farms page](https://photonswap.finance/farms#/farm). At the top of the page you'll see a **Staked only** toggle. Click the toggle.\
-You should now only see the pairs you have LP Tokens in on the list, making it easier to find your Farm.
+1. Return to the [Yield Farms page](https://photonswap.finance/farms#/farm).
 
-2. Find the Farm you have LP Tokens in, and click the row to view details. You will see a **Remove** and **Add** button on the right-hand side. Click **Remove** to remove LP Tokens, or **Add** to add more LP Tokens.
+2. Find the Farm you have LP Tokens in, and click the Deposit button of that row to view details. You will see a **Withdraw** and **Deposit** button. Click **Withdraw** to remove LP Tokens, or **Deposit** to add more LP Tokens.
 
 3. A window will open that looks like the one you used earlier to first stake your LP Tokens. Like last time, type the amount you would like to unstake/stake, or click **Max** to remove/add all available LP Tokens.
 
@@ -77,12 +77,10 @@ Farming will bring you reward tokens over time. You can collect these rewards an
 
 ### Returning to your Farm to Claim
 
-You can claim your Farm and Staking rewards together from the Home page. If you'd like to collect your farming rewards only, follow along.
-
 To collect your rewards, you’ll need to visit your chosen Farm and collect the PHOTON waiting for you.
 
 1. Return to the Farms page [here](https://photonswap.finance/farms#/farm).
 
-2. Find the Farm you staked your LP Tokens in, and click the row to view details. You should see an estimate of your rewards under “Photon-token earned”.
+2. Find the Farm you staked your LP Tokens in, and click the Deposit button of that row to view details. You should see an estimate of your rewards.
 
 3. Click the **Claim** button and confirm the action in your wallet. After a short wait, the PHOTON will be claimed to your wallet for you to use as you like.

@@ -45,7 +45,7 @@ To remove liquidity.
 
 4\. Use the buttons or slider to choose how much liquidity you want to remove. Choose **MAX** to remove all of your liquidity from this pair.
 
-5\. Click **Approve**. Your wallet will ask you to sign the action**.**
+5\. Click **Approve**. Your wallet will ask you to sign the action **.**
 
 6\. The **Remove** button will light up. Click to proceed.
 
