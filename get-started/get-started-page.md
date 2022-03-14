@@ -11,7 +11,7 @@ Once you have a wallet set up and connected to PhotonSwap, feel free to check ou
 
 > [How to Trade?](https://docs.photonswap.finance/get-started/how-to-trade)\
 > [How to Add/Remove Liquidity?](https://docs.photonswap.finance/get-started/how-to-add-remove-liquidity)\
-> [How to use Famrs?](https://docs.photonswap.finance/get-started/how-to-use-farms)
+> [How to use Famrs?](https://docs.photonswap.finance/get-started/how-to-use-farms)\
 > [how to use Stake?](https://docs.photonswap.finance/get-started/how-to-stake)
 
 
