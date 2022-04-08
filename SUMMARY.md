@@ -16,7 +16,9 @@
 
 
 ## Developer
-* [Smart Contracts](developer/smart-contracts.md)
+* [Smart Contracts]
+  * [Cronos Mainnet](developer/cronos-mainnet-contracts.md)
+  * [Cronos Testnet](developer/cronos-testnet-contracts.md)
 
 ## Social & Support
 * [FAQ](social-supports/faq.md)
